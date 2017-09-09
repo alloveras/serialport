@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SerialPort">
+    <output-path>$PROJECT_DIR$/out/artifacts/SerialPort</output-path>
+    <root id="archive" name="SerialPort.jar">
+      <element id="directory" name="doc">
+        <element id="dir-copy" path="$PROJECT_DIR$/doc" />
+      </element>
+      <element id="module-output" name="SerialPort" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
